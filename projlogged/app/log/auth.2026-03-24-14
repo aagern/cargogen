@@ -1,0 +1,2 @@
+2026-03-24T14:15:50.020956Z  INFO ThreadId(01) app/src/main.rs:8: {"message":"Logger initialized. App started."}
+2026-03-24T14:15:50.021147Z  INFO ThreadId(01) app/src/main.rs:12: {"message":"App finished."}

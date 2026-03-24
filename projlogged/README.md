@@ -2,11 +2,9 @@
 24.03.2026
 
 ### Contents
-Cargo workspace
-|
--> app // main binary
-|
--> logger // common logger (tokio tracing)
+Cargo workspace members:
+- app // main binary
+- logger // common logger (tokio tracing)
 
 Libs dependencies:
 Anyhow - error handling
